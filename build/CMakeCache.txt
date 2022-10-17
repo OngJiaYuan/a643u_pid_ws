@@ -380,12 +380,6 @@ _gtest_INCLUDES:FILEPATH=/usr/include/gtest/gtest.h
 _gtest_SOURCES:FILEPATH=/usr/src/gtest/src/gtest.cc
 
 //Value Computed by CMake
-a536l_pid_BINARY_DIR:STATIC=/home/jy/a643u_pid_ws/build/ROS_PID_CONTROL/a536l_pid
-
-//Value Computed by CMake
-a536l_pid_SOURCE_DIR:STATIC=/home/jy/a643u_pid_ws/src/ROS_PID_CONTROL/a536l_pid
-
-//Value Computed by CMake
 a643u_pid_BINARY_DIR:STATIC=/home/jy/a643u_pid_ws/build/a643u_pid
 
 //Value Computed by CMake

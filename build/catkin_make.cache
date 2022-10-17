@@ -1,0 +1,2 @@
+a643u_pid
+-DCATKIN_DEVEL_PREFIX=/home/jy/a643u_pid_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jy/a643u_pid_ws/install -G Unix Makefiles
